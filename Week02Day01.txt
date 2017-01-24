@@ -1,0 +1,17 @@
+				JavaScript
+	JS-obyektyonumlu proqramlasd?rma dilidir.  Bu dil 1995-ci ild? Brendon Eyx t?r?find?n yarad?l?b. JS- ilk onc?l?r Livescript adlan?b. JS Html il? birlikd? isl?yir. Onun kodlar?n? isl?tm?k ucun adi brauzer kifay?t edir. JS- sehif?l?r? dinamiklik,funksionall?q qatmaq ucun istfad? olunur. Y?ni Buttona clickl?m?kl? h?r hansi bir hadis?(Event) yaratmaq ucun HTML,CSS kifay?t etmir. Bu isi JavaScript gorur. JAvascript hal-haz?rda ?n cox isl?n?n proqramlasd?rma dill?rind?n biridir.
+
+				Ruby	
+	Ruby Obyektyonumlu Proqramlasd?rma dilidir. Bu dil 1995-ci ild? Yukihiro Matsumoto t?r?find?n Yaponiyada yarad?l?b. Bu dild? Perl,ADA, SmalTalk, Lisp, Eiffel Proqramla.d?rma dill?rind?n ilhamlanm?sd?r.  Yaz?lmas? c?h?td?n Python dilin? cox oxsay?r. 
+				C
+C- Proqramlasd?rma dilinin yarad?lmas? proqramlasd?rma tarixind? yeni bir s?hif? s?hif? acd?. 1970- ci ild? yarad?lmas?na baxmayaraq C-dili h?l?d? ?n guclu dill?rd?n say?l?r . Bu dil Denis Ritchie v? Ken Tompson T?r?find?n Bell Labs da yarad?lm?sd?r. C-dili A,B dill?rinin inkisaf? ucun yarad?lm?sd?r. Hal-haz?rda istfad? olunan ?m?liyyat sisteml?ri (Linux,Unix,Windows ) bu dil vasit?sil? yarad?lm?sd?r. C-dili h?mccinin bir cox dill?rin (C++,Objective-C, Perl, Java ,PHP, JS ) yara?lmas?nda rolu boyuk olmusdur. 
+
+				Cobol
+	COBOL (COmmon  Business Oriented Language)- ilk yaranm?s duz ?m?lli proqramlasd?rma dili say?la bil?r. Bu dil 1959-cu ild? ABS-da lompyuter istehsalc?lar? t?r?find?n yarad?lm?sd?r. Sintaksisi c?h?td?n ingilis dilin? cox yax?nd?r. Bu dilin yarad?lmas?nda ?sas m?qs?d iqtsadiyyatla bagl? hesablamalar?n rahatlasd?r?lmas? ucun idi.  Hal haz?rda bu dil istfad? olunmaqdad?r.
+
+				Machine Language
+	Machinery Language hal haz?rda olan butun texnologiyalar?n basa duduyu bir dildir. Proqramlasd?rman?n ?cdad? say?la bil?r. Bu dild? yazmaq cox q?liz m?s?l?dir. Lakin buna baxmayaraq bu dild? yaz?lan kod h?mis? d?qiq isl?yir. Bu kod 1,0 lardan t?skil olunub. Mas?n dilind? yaz?lm?s kodun komplyatora,y?ni t?rcum?y? ehtiyac? yoxdur. Cunki bu dild? yaz?lan kodlar birbasa prosessorun isin? t?sir edir. Lakin dig?r High-Level PDl?rd? komplyator olmadan yazd?g?m?z kod hec vaxt isl?y? bilm?z.
+
+
+				Assembler
+	Assembler dili 1952-ci ild? Qreys Hopper adl? qad?n t?r?find?n yarad?lm?sd?r. Bu dil II level dil say?l?r. Ilk d?f? bu dild? Qreys Machinery Language-d?ki kodlar? bir araya y?gd? v? bunlar? komandalar siyah?s? s?klind? istfad? etdi. Sonradan bu komansdalar siyah?s?nl ML- ? t?rcum? etm?k ucun yaratd?g? proqram? bu kodlara qosdu. Bu proqram bildiyimiz komplyator idi. Assembler dili 1952 ci ild? yarad?lmas?na baxmayaraq gunumuzd? h?l?d? isl?nilir. Bu dilin imkanlar? sonsuzdur. Bu dil ?s?as?n sistem proqramlasd?rmas?nda v? qurgulara driver yaz?lmas? ucun istfad? olunur.  
